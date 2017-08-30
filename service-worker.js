@@ -5,7 +5,6 @@ self.addEventListener('install', (event) => {
         [
           '/pirates.html',
           '/styles/pirates.css',
-          '/styles/pirate.ttf',
           '/images/i-love-pirates.jpg'
         ]);
     })
