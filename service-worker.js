@@ -5,7 +5,8 @@ self.addEventListener('install', (event) => {
         [
           '/pirates.html',
           '/styles/pirates.css',
-          '/images/i-love-pirates.jpg'
+          '/images/i-love-pirates.jpg',
+          '/script.js'
         ]);
     })
   );
